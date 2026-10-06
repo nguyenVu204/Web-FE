@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a responsive business website showcasing services, social proof, and competitive advantages to engage users across desktop and mobile devices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

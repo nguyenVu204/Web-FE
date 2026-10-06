@@ -12,7 +12,6 @@ logs/
 .claude-replay.*
 .tmp-*
 /.figma/design-context/
-/.figma/make/
 
 # Local AI assistant instructions
 AGENTS.md
